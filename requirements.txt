@@ -1,5 +1,7 @@
 # Crop Recommendation System - Requirements
 # Core web framework
+gunicorn
+
 Flask==2.3.3
 
 # Machine learning and data processing
